@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.index.v1+json","digest":"sha256:fbd4682f8e9ae9d833b9cc52981145cfd83cd0c2c1af17bf09987ec7e622c58a","size":856,"annotations":{"io.containerd.image.name":"docker.io/library/screening-part3:latest","org.opencontainers.image.ref.name":"latest"}}]}
